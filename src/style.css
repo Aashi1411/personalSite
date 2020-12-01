@@ -41,7 +41,24 @@ nav{
 .copy{
     float: left;
 }
-.symbol{
+.symbol {
     text-align: -webkit-right;
     float: none;
+    -webkit-tap-highlight-color: transparent;
+    color: black;
+    outline: none;
+    border: none;
 }
+.symbol a{
+    color: black;
+}
+
+.bodyContent{
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: 30%;
+    margin-right: 20%;
+}
+
+
+
