@@ -11,10 +11,16 @@ body{
 .hero-text{
     max-width: 960px;
     text-align: -webkit-left;
-    margin-right: 25%;
     margin-left: 25%;
+    margin-right: 10%;
     padding-top: 50px;
     line-height: 4;
+    float: left;
+}
+
+.hero-image{
+    padding-top: 40px;
+
 }
 
 nav{
@@ -60,5 +66,8 @@ nav{
     margin-right: 20%;
 }
 
+.bodyContent a{
+    color: black;
+}
 
 
